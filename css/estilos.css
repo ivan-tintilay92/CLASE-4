@@ -1,0 +1,31 @@
+body {
+  background-color: #e5e5e5;
+}
+
+header {
+  text-align: center;
+}
+
+header img {
+  width: 100px;
+}
+
+h1 {
+  background-color: #c4c4c4;
+  color: #00617a;
+  letter-spacing: 8px;
+  text-align: center;
+}
+h2 {
+  background-color: #c4c4c4;
+  color: #00617a;
+  font-size: 18px;
+}
+footer {
+  background-color: #00617a;
+  color: white;
+  text-align: center;
+}
+footer img {
+  width: 22px;
+}
